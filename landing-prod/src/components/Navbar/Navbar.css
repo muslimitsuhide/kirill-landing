@@ -1,0 +1,75 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  background-color: black !important;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-logo {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.navbar-menu {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  border-bottom: none !important;
+}
+
+.navbar-menu .ant-menu-item {
+  margin: 0 10px !important;
+  color: white !important;
+}
+
+.navbar-menu .ant-menu-item:hover {
+  color: #328873 !important;
+}
+
+.navbar-toggle {
+  display: none;
+}
+
+.social-button {
+  background: #328873 !important;
+  border: none !important;
+  color: #fff !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+}
+
+.telegram-icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0 20px;
+  }
+
+  .navbar-menu {
+    display: none;
+  }
+
+  .navbar-toggle {
+    display: block;
+    color: white;
+  }
+
+  .navbar-logo {
+    margin-right: auto;
+  }
+}
