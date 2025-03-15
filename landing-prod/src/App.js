@@ -7,7 +7,7 @@ import Cooperation from "./components/CooperationPage/Cooperation";
 import Cases from "./components/CasesPage/Cases";
 import FAQ from "./components/FAQPage/FAQ";
 import Footer from "./components/Footer/Footer";
-import Reviews from "./ReviewsPage/Reviews";
+import Reviews from "./components/ReviewsPage/Reviews";
 import "./App.css";
 
 function App() {
