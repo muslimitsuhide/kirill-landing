@@ -26,17 +26,17 @@ const WhatYouGet = () => {
       <div className="cards-container">
         {[
           {
-            img: "/images/icon1.svg",
+            img: "../../../public/images/icon1.svg",
             title: "Финансовый план",
             text: "Вы достигнете своих бизнес-целей благодаря эффективному финансовому плану",
           },
           {
-            img: "/images/icon2.svg",
+            img: "../../../public/images/icon2.svg",
             title: "Доходный портфель",
             text: "Мы вместе разработаем оптимальную стратегию диверсификации ваших активов",
           },
           {
-            img: "/images/icon3.svg",
+            img: "../../../public/images/icon3.svg",
             title: "Обучение",
             text: "Разберём инструменты инвестирования, научу контролировать эмоции и риски",
           },

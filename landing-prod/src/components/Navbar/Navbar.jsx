@@ -63,7 +63,7 @@ const Navbar = () => {
             target="_blank"
           >
             <img
-              src="/images/telegram.png"
+              src="../../../public/images/telegram.png"
               alt="Telegram"
               className="telegram-icon"
             />

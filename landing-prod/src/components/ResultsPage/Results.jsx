@@ -67,7 +67,7 @@ const Results = () => {
           className={`photo-container ${isVisible ? "animate" : ""}`}
           style={{ transitionDelay: "0.3s" }}
         >
-          <img src="/images/img1.jpg" alt="Игорь Поташов" />
+          <img src="../../../public/images/img1.jpg" alt="Игорь Поташов" />
         </div>
 
         <div className="stats-column">
