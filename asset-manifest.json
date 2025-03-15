@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6cb892ad.css",
-    "main.js": "/react-gh-pages/static/js/main.acdfdca2.js",
-    "static/media/img2.png": "/react-gh-pages/static/media/img2.5630dc6980e61954d585.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6cb892ad.css.map": "/react-gh-pages/static/css/main.6cb892ad.css.map",
-    "main.acdfdca2.js.map": "/react-gh-pages/static/js/main.acdfdca2.js.map"
+    "main.css": "/kirill-landing/static/css/main.1e92b269.css",
+    "main.js": "/kirill-landing/static/js/main.acdfdca2.js",
+    "static/media/img2.png": "/kirill-landing/static/media/img2.5630dc6980e61954d585.png",
+    "index.html": "/kirill-landing/index.html",
+    "main.1e92b269.css.map": "/kirill-landing/static/css/main.1e92b269.css.map",
+    "main.acdfdca2.js.map": "/kirill-landing/static/js/main.acdfdca2.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb892ad.css",
+    "static/css/main.1e92b269.css",
     "static/js/main.acdfdca2.js"
   ]
 }
