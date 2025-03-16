@@ -28,7 +28,10 @@ const Cooperation = () => {
       <h2>Сотрудничество</h2>
       <div className="coop-container">
         <div className="coop-image">
-          <img src="../../../public/images/img3.jpg" alt="Портрет" />
+          <img
+            src={`${process.env.PUBLIC_URL}/images/img3.jpg`}
+            alt="Портрет"
+          />
         </div>
         <div className="coop-content">
           {[

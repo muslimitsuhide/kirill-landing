@@ -26,22 +26,22 @@ const WhatYouGet = () => {
       <div className="cards-container">
         {[
           {
-            img: "../../../public/images/icon1.svg",
+            img: `${process.env.PUBLIC_URL}/images/icon1.svg`,
             title: "Финансовый план",
             text: "Вы достигнете своих бизнес-целей благодаря эффективному финансовому плану",
           },
           {
-            img: "../../../public/images/icon2.svg",
+            img: `${process.env.PUBLIC_URL}/images/icon2.svg`,
             title: "Доходный портфель",
             text: "Мы вместе разработаем оптимальную стратегию диверсификации ваших активов",
           },
           {
-            img: "../../../public/images/icon3.svg",
+            img: `${process.env.PUBLIC_URL}/images/icon3.svg`,
             title: "Обучение",
             text: "Разберём инструменты инвестирования, научу контролировать эмоции и риски",
           },
           {
-            img: "/images/icon4.svg",
+            img: `${process.env.PUBLIC_URL}/images/icon4.svg`,
             title: "Защита жизни и капитала",
             text: "Подберём надёжные инструменты страхования и сохранения капитала",
           },
