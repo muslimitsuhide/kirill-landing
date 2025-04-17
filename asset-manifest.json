@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kirill-landing/static/css/main.1dc11cc5.css",
-    "main.js": "/kirill-landing/static/js/main.9d1857a0.js",
-    "static/media/11.jpg": "/kirill-landing/static/media/11.c03f2b8ee2188c39db63.jpg",
-    "static/media/logo.svg": "/kirill-landing/static/media/logo.e435e99908103535f4eb7064d1d533d4.svg",
-    "index.html": "/kirill-landing/index.html",
-    "main.1dc11cc5.css.map": "/kirill-landing/static/css/main.1dc11cc5.css.map",
-    "main.9d1857a0.js.map": "/kirill-landing/static/js/main.9d1857a0.js.map"
+    "main.css": "/static/css/main.f0bc6280.css",
+    "main.js": "/static/js/main.cc109915.js",
+    "static/media/11.jpg": "/static/media/11.c03f2b8ee2188c39db63.jpg",
+    "static/media/logo.svg": "/static/media/logo.e435e99908103535f4eb7064d1d533d4.svg",
+    "index.html": "/index.html",
+    "main.f0bc6280.css.map": "/static/css/main.f0bc6280.css.map",
+    "main.cc109915.js.map": "/static/js/main.cc109915.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc11cc5.css",
-    "static/js/main.9d1857a0.js"
+    "static/css/main.f0bc6280.css",
+    "static/js/main.cc109915.js"
   ]
 }
